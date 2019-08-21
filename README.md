@@ -12,4 +12,4 @@ ____
 
 * **RecommandationSys.py**: python file which contains the core code and implementation of the Recommandation System and the hyperparameter CrossValidation.
 
-* **data.csv**: Csv file containing the ratings for each user of all the movies in the catalogue.
+* **ratings.csv**: Csv file containing the ratings for each user of all the movies in the catalogue.
