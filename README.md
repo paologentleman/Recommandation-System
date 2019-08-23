@@ -1,4 +1,4 @@
-# Recommandation-System
+# Recommender-System
 
 ![alt text](https://miro.medium.com/max/1000/1*kjouN-zV6BgpmCl5SnEjGQ.jpeg)
 
